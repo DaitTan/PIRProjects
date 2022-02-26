@@ -1,0 +1,8 @@
+prefix=/home/tanmay/proj3a_ws/install
+
+Name: tb_navigation
+Description: Description of tb_navigation
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

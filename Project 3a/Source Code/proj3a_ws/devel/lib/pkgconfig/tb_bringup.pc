@@ -1,0 +1,8 @@
+prefix=/home/tanmay/proj3a_ws/devel
+
+Name: tb_bringup
+Description: Description of tb_bringup
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

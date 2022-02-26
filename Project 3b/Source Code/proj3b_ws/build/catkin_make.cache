@@ -1,0 +1,2 @@
+human_description:pursuit_evasion:tb_robot_description
+-DCATKIN_DEVEL_PREFIX=/home/daittan/Documents/proj3b_ws/devel -DCMAKE_INSTALL_PREFIX=/home/daittan/Documents/proj3b_ws/install -G Unix Makefiles

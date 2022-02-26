@@ -1,0 +1,8 @@
+prefix=/home/daittan/Documents/proj3b_ws/install
+
+Name: tb_robot_navigation
+Description: Description of tb_robot_navigation
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

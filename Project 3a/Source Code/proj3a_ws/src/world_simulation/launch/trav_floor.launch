@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<launch>
+  <!-- Assumes that a turtlebot3 is already spawned in -->
+  <node pkg="world_simulation" type="src.py" name="trav_node"/>
+</launch>
